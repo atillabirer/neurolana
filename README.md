@@ -1,3 +1,5 @@
+A NextjS + tailwind landing page for AI crypto projects.
+
 ### technologies used
 
 - TailwindCSS
